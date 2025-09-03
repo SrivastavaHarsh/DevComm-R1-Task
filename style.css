@@ -1,0 +1,57 @@
+*{
+   box-sizing: border box;
+}
+body
+{
+   font-family: 'Segoe UI';
+   line-height : 1.5;
+   background-color: #f9f9f9;
+   color: #333;
+}
+.head
+{
+    background: url('https://source.unsplash.com/1600*900/?art,creative') no repeat center center/cover;
+    align-items: center;
+    text-align: center;
+}
+h1{
+    background-color: rgb(200,200,0);
+}
+h2
+{
+    background-color: burlywood;
+}
+#l1
+{
+    align-items: "left";
+    text-align: "left";
+}
+.head h3
+{
+    background-color: cadetblue;
+    color: #222;
+    font-size: 3rem;
+    margin-bottom:1rem;
+
+}
+.about pre, .contact pre
+{
+    max-width: 600px;
+    margin: 1.3 rem auto;
+}
+
+
+footer
+{
+    align-items: center;
+    background: #222;
+    color: #fff;
+    text-align: center;
+    padding: 1 rem;
+}
+#l2
+{
+    color: black;
+    background-color: rgb(200,200,0);
+}
+
